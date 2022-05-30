@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://musha.rs/categories/</loc>
+    <loc>https://musha.io/categories/</loc>
   </url><url>
-    <loc>https://musha.rs/tags/</loc>
+    <loc>https://musha.io/tags/</loc>
   </url><url>
-    <loc>https://musha.rs/</loc>
+    <loc>https://musha.io/</loc>
   </url>
 </urlset>
