@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://musha.rs/sitemap.xml
